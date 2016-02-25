@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import java.lang.*?>
+<?import javafx.scene.text.*?>
+
+<Pane prefHeight="197.0" prefWidth="305.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="100.0" fitWidth="100.0" layoutX="14.0" layoutY="65.0">
+         <image>
+            <Image url="handsome_carl.png" />
+         </image></ImageView>
+      <Text layoutX="19.0" layoutY="184.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Carl Shen">
+         <font>
+            <Font name="System Bold" size="20.0" />
+         </font>
+      </Text>
+      <Text layoutX="14.0" layoutY="38.0" strokeType="OUTSIDE" strokeWidth="0.0" text="↓Handsome">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Text>
+      <Text layoutX="158.0" layoutY="165.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Special Thanks To">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Text>
+      <ImageView fitHeight="129.0" fitWidth="100.0" layoutX="175.0" layoutY="15.0">
+         <image>
+            <Image url="mcelrea.jpg" />
+         </image></ImageView>
+      <Text layoutX="158.0" layoutY="183.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Mr. McElrea↑">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Text>
+      <Text layoutX="11.0" layoutY="59.0" strokeType="OUTSIDE" strokeWidth="0.0" text="   Author:">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Text>
+   </children>
+</Pane>
